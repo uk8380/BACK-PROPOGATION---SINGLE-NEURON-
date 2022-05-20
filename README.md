@@ -1,4 +1,6 @@
-# BACK-PROPOGATION---SINGLE-NEURON-
+### EXPERIMENT NO:04
+### DATE: 11.04.2022
+# <p align="center">BACK-PROPOGATION---SINGLE-NEURON- <p/>
 ## Aim:
 To write a python program to perform Back Propagation with Single Neuron.
 
@@ -27,11 +29,11 @@ Keep repeating the process until the desired output is achieved.<br/>
 
 ## Program:
 ```
-/*
 Program to implement random classification.
 Developed by   : SHAIK KHADAR BASHA
 Register Number :  212220230045
-*/
+```
+```python
 import numpy as np
 i=1.5    
 w_o=0.8  
